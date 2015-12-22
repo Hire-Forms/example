@@ -1,0 +1,15 @@
+div.example div.component,
+div.example div.code {
+	display: inline-block;
+	vertical-align: top;
+	width: 50%;
+}
+
+div.example {
+	margin-bottom: 60px;
+}
+
+div.example h2 {
+	border-bottom: 1px solid #DDD;
+	margin: 1em 0;
+}
